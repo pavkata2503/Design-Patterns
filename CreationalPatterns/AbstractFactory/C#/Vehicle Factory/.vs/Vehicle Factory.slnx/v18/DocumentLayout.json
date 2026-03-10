@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\italiansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\italiansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\italiansuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\italiansuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\italiansedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\italiansedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\japanesesportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\japanesesportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\japanesesuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\japanesesuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\japanesesedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\japanesesedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\germansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\germansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\germansuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\germansuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\products\\germansedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:products\\germansedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\concretefactories\\italianvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:concretefactories\\italianvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\concretefactories\\japanesevehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:concretefactories\\japanesevehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\concretefactories\\germanvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:concretefactories\\germanvehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:interfaces\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|c:\\users\\pavka\\onedrive\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 c#\\design-patterns\\creationalpatterns\\abstractfactory\\c#\\vehicle factory\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F23D2FC-CBEE-44C9-94ED-426F1A06761D}|Vehicle Factory.csproj|solutionrelative:interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItalianSportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSportsCar.cs",
+              "RelativeDocumentMoniker": "Products\\ItalianSportsCar.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSportsCar.cs",
+              "RelativeToolTip": "Products\\ItalianSportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:32:21.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItalianSUV.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSUV.cs",
+              "RelativeDocumentMoniker": "Products\\ItalianSUV.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSUV.cs",
+              "RelativeToolTip": "Products\\ItalianSUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:32:08.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItalianSedan.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSedan.cs",
+              "RelativeDocumentMoniker": "Products\\ItalianSedan.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\ItalianSedan.cs",
+              "RelativeToolTip": "Products\\ItalianSedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:31:52.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JapaneseSportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSportsCar.cs",
+              "RelativeDocumentMoniker": "Products\\JapaneseSportsCar.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSportsCar.cs",
+              "RelativeToolTip": "Products\\JapaneseSportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:31:36.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JapaneseSUV.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSUV.cs",
+              "RelativeDocumentMoniker": "Products\\JapaneseSUV.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSUV.cs",
+              "RelativeToolTip": "Products\\JapaneseSUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:31:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JapaneseSedan.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSedan.cs",
+              "RelativeDocumentMoniker": "Products\\JapaneseSedan.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\JapaneseSedan.cs",
+              "RelativeToolTip": "Products\\JapaneseSedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:31:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:26:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GermanSportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSportsCar.cs",
+              "RelativeDocumentMoniker": "Products\\GermanSportsCar.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSportsCar.cs",
+              "RelativeToolTip": "Products\\GermanSportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:30:52.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GermanSUV.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSUV.cs",
+              "RelativeDocumentMoniker": "Products\\GermanSUV.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSUV.cs",
+              "RelativeToolTip": "Products\\GermanSUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:30:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GermanSedan.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSedan.cs",
+              "RelativeDocumentMoniker": "Products\\GermanSedan.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Products\\GermanSedan.cs",
+              "RelativeToolTip": "Products\\GermanSedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:30:22.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItalianVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\ItalianVehicleFactory.cs",
+              "RelativeDocumentMoniker": "ConcreteFactories\\ItalianVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\ItalianVehicleFactory.cs",
+              "RelativeToolTip": "ConcreteFactories\\ItalianVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:30:06.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JapaneseVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\JapaneseVehicleFactory.cs",
+              "RelativeDocumentMoniker": "ConcreteFactories\\JapaneseVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\JapaneseVehicleFactory.cs",
+              "RelativeToolTip": "ConcreteFactories\\JapaneseVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GermanVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\GermanVehicleFactory.cs",
+              "RelativeDocumentMoniker": "ConcreteFactories\\GermanVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\ConcreteFactories\\GermanVehicleFactory.cs",
+              "RelativeToolTip": "ConcreteFactories\\GermanVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:33.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Interfaces\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Interfaces\\IVehicleFactory.cs",
+              "RelativeToolTip": "Interfaces\\IVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:29:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\\u041F\u0440\u043E\u0433\u0440\u0430\u0432\u0438\u0440\u0430\u043D\u0435 C#\\Design-Patterns\\CreationalPatterns\\AbstractFactory\\C#\\Vehicle Factory\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:28:54.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
