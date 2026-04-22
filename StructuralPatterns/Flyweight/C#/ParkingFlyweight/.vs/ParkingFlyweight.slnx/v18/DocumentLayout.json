@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\models\\parkinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:models\\parkinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\client\\parkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:client\\parkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\factories\\carflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:factories\\carflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\structuralpatterns\\flyweight\\c#\\parkingflyweight\\flyweights\\carflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30482720-EA6B-4543-99C7-98E4C3286AE5}|ParkingFlyweight.csproj|solutionrelative:flyweights\\carflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingManager.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Client\\ParkingManager.cs",
+              "RelativeDocumentMoniker": "Client\\ParkingManager.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Client\\ParkingManager.cs",
+              "RelativeToolTip": "Client\\ParkingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:01:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarFlyweightFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Factories\\CarFlyweightFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\CarFlyweightFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Factories\\CarFlyweightFactory.cs",
+              "RelativeToolTip": "Factories\\CarFlyweightFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:00:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarFlyweight.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Flyweights\\CarFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweights\\CarFlyweight.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Flyweights\\CarFlyweight.cs",
+              "RelativeToolTip": "Flyweights\\CarFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:00:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Models\\ParkingInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ParkingInfo.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Models\\ParkingInfo.cs",
+              "RelativeToolTip": "Models\\ParkingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:00:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:00:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\StructuralPatterns\\Flyweight\\C#\\ParkingFlyweight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:59:27.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
