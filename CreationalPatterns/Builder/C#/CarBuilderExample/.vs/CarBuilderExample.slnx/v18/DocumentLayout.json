@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\director\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:director\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\builders\\teslabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:builders\\teslabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\builders\\audibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:builders\\audibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\builders\\bmwbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:builders\\bmwbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\builders\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:builders\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\creationalpatterns\\builder\\c#\\carbuilderexample\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0207336-83FD-48D3-819F-7C05F64EA9DE}|CarBuilderExample.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Director\\CarFactory.cs",
+              "RelativeDocumentMoniker": "Director\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Director\\CarFactory.cs",
+              "RelativeToolTip": "Director\\CarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:16:19.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeslaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\TeslaBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\TeslaBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\TeslaBuilder.cs",
+              "RelativeToolTip": "Builders\\TeslaBuilder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:16:04.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudiBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\AudiBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\AudiBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\AudiBuilder.cs",
+              "RelativeToolTip": "Builders\\AudiBuilder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BmwBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\BmwBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\BmwBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\BmwBuilder.cs",
+              "RelativeToolTip": "Builders\\BmwBuilder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "Builders\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Builders\\CarBuilder.cs",
+              "RelativeToolTip": "Builders\\CarBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:15:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CreationalPatterns\\Builder\\C#\\CarBuilderExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T10:14:14.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
