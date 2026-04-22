@@ -1,0 +1,15 @@
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\bin\Debug\net10.0\Vehicles.exe
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\bin\Debug\net10.0\Vehicles.deps.json
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\bin\Debug\net10.0\Vehicles.runtimeconfig.json
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\bin\Debug\net10.0\Vehicles.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\bin\Debug\net10.0\Vehicles.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.AssemblyInfo.cs
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.sourcelink.json
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\refint\Vehicles.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\Vehicles.genruntimeconfig.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\Design-Patterns\CreationalPatterns\Factory\C#\Vehicles\obj\Debug\net10.0\ref\Vehicles.dll
