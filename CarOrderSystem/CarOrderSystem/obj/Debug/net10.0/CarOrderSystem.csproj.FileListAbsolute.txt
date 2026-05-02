@@ -1,0 +1,15 @@
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\bin\Debug\net10.0\CarOrderSystem.exe
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\bin\Debug\net10.0\CarOrderSystem.deps.json
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\bin\Debug\net10.0\CarOrderSystem.runtimeconfig.json
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\bin\Debug\net10.0\CarOrderSystem.dll
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\bin\Debug\net10.0\CarOrderSystem.pdb
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.AssemblyInfoInputs.cache
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.AssemblyInfo.cs
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.sourcelink.json
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.dll
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\refint\CarOrderSystem.dll
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.pdb
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\CarOrderSystem.genruntimeconfig.cache
+C:\Users\pavka\OneDrive\Documents\Design-Patterns\CarOrderSystem\CarOrderSystem\obj\Debug\net10.0\ref\CarOrderSystem.dll
