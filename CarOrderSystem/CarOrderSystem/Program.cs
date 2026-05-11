@@ -1,5 +1,6 @@
 ﻿using CarOrderSystem.Builder;
 using CarOrderSystem.ChainOfResponsibility;
+using CarOrderSystem.Interfaces;
 using CarOrderSystem.Models;
 
 namespace CarOrderSystem
@@ -8,13 +9,18 @@ namespace CarOrderSystem
     {
         static void Main(string[] args)
         {
-            var builder = new CarBuilder();
+            IBuilder builder;
+
+            builder = new SUVBuilder();
+            // builder = new SedanBuilder();
+            // builder = new SportBuilder();
 
             var car = builder
                 .AddEngine()
                 .AddWheels()
                 .AddLuxuryPackage()
                 .Build();
+
 
             double price = car.GetPrice();
             Console.WriteLine($"Car price: {price}");

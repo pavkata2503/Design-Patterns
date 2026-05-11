@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\carcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\carcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\builder\\sportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:builder\\sportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\builder\\suvbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:builder\\suvbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\builder\\sedanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:builder\\sedanbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\discounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\discounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\interfaces\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:interfaces\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\discounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\discounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\carcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\carcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\carcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\carcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\paymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\paymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\interfaces\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:interfaces\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\interfaces\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:interfaces\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\composite\\carcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:composite\\carcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\chainofresponsibility\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:chainofresponsibility\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|c:\\users\\pavka\\onedrive\\documents\\design-patterns\\carordersystem\\carordersystem\\interfaces\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9158372C-968E-A0AC-C39A-E6CC2ADB6FB5}|CarOrderSystem.csproj|solutionrelative:interfaces\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,85 +86,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DiscountHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\DiscountHandler.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibility\\DiscountHandler.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\DiscountHandler.cs",
-              "RelativeToolTip": "ChainOfResponsibility\\DiscountHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBUAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SportBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\SportBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SportBuilder.cs",
+              "RelativeToolTip": "Builder\\SportBuilder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:50:03.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PaymentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\PaymentHandler.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibility\\PaymentHandler.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\PaymentHandler.cs",
-              "RelativeToolTip": "ChainOfResponsibility\\PaymentHandler.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:50:09.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\OrderHandler.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibility\\OrderHandler.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\OrderHandler.cs",
-              "RelativeToolTip": "ChainOfResponsibility\\OrderHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:49:49.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\ValidationHandler.cs",
-              "RelativeDocumentMoniker": "ChainOfResponsibility\\ValidationHandler.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\ValidationHandler.cs",
-              "RelativeToolTip": "ChainOfResponsibility\\ValidationHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:49:55.973Z",
+              "WhenOpened": "2026-05-05T12:18:09.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CarBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\CarBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\CarBuilder.cs",
-              "RelativeToolTip": "Builder\\CarBuilder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Title": "SUVBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SUVBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\SUVBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SUVBuilder.cs",
+              "RelativeToolTip": "Builder\\SUVBuilder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:48:58.424Z",
+              "WhenOpened": "2026-05-05T12:17:45.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "SedanBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SedanBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\SedanBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\SedanBuilder.cs",
+              "RelativeToolTip": "Builder\\SedanBuilder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T12:17:16.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CarComposite.cs",
               "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComposite.cs",
               "RelativeDocumentMoniker": "Composite\\CarComposite.cs",
               "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComposite.cs",
               "RelativeToolTip": "Composite\\CarComposite.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:48:46.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T11:48:46.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:47:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Part.cs",
               "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\Part.cs",
               "RelativeDocumentMoniker": "Composite\\Part.cs",
@@ -160,12 +158,60 @@
               "RelativeToolTip": "Composite\\Part.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:48:40.995Z",
+              "WhenOpened": "2026-04-30T11:48:40.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarComponent.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\CarComponent.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComponent.cs",
+              "RelativeToolTip": "Composite\\CarComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:48:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Builder\\CarBuilder.cs",
+              "RelativeToolTip": "Builder\\CarBuilder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:48:58.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\ValidationHandler.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\ValidationHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\ValidationHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:49:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\DiscountHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\DiscountHandler.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\DiscountHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\DiscountHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:50:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IBuilder.cs",
               "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Interfaces\\IBuilder.cs",
               "RelativeDocumentMoniker": "Interfaces\\IBuilder.cs",
@@ -173,37 +219,47 @@
               "RelativeToolTip": "Interfaces\\IBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:50:38.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T11:50:38.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\PaymentHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\PaymentHandler.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\PaymentHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\PaymentHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:47:09.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T11:50:09.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IHandler.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Interfaces\\IHandler.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IHandler.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Interfaces\\IHandler.cs",
-              "RelativeToolTip": "Interfaces\\IHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Utils\\Logger.cs",
+              "RelativeToolTip": "Utils\\Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:50:46.813Z"
+              "WhenOpened": "2026-04-30T11:50:17.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "OrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\OrderHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\OrderHandler.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\ChainOfResponsibility\\OrderHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\OrderHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:49:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -215,27 +271,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Utils\\Logger.cs",
-              "RelativeDocumentMoniker": "Utils\\Logger.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Utils\\Logger.cs",
-              "RelativeToolTip": "Utils\\Logger.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Interfaces\\IHandler.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHandler.cs",
+              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Interfaces\\IHandler.cs",
+              "RelativeToolTip": "Interfaces\\IHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:50:17.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CarComponent.cs",
-              "DocumentMoniker": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\CarComponent.cs",
-              "ToolTip": "C:\\Users\\pavka\\OneDrive\\Documents\\Design-Patterns\\CarOrderSystem\\CarOrderSystem\\Composite\\CarComponent.cs",
-              "RelativeToolTip": "Composite\\CarComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:48:32.864Z"
+              "WhenOpened": "2026-04-30T11:50:46.813Z"
             }
           ]
         },

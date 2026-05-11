@@ -6,31 +6,13 @@ using System.Text;
 
 namespace CarOrderSystem.Builder
 {
-    public class CarBuilder: IBuilder
+    public abstract class CarBuilder: IBuilder
     {
-        private CarComposite car = new CarComposite("Car");
+        protected CarComposite car = new CarComposite("Car");
 
-        public IBuilder AddEngine()
-        {
-            car.Add(new Part("Engine", 5000));
-            return this;
-        }
-
-        public IBuilder AddWheels()
-        {
-            car.Add(new Part("Wheels", 1200));
-            return this;
-        }
-
-        public IBuilder AddLuxuryPackage()
-        {
-            var luxury = new CarComposite("Luxury Package");
-            luxury.Add(new Part("Leather seats", 3000));
-            luxury.Add(new Part("Premium sound", 2500));
-
-            car.Add(luxury);
-            return this;
-        }
+        public abstract IBuilder AddEngine();
+        public abstract IBuilder AddWheels();
+        public abstract IBuilder AddLuxuryPackage();
 
         public CarComposite Build()
         {
